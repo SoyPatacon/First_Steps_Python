@@ -1,0 +1,48 @@
+# =========================
+# 1. Editor: Visual Studio Code
+# =========================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json      
+!.vscode/launch.json     
+!.vscode/extensions.json 
+*.code-workspace
+.history/
+
+# =========================
+# 2. Sistema Operativo: Windows / Mac / Linux
+# =========================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Mac (Por si colaboras con alguien en macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# 3. Lenguaje: Python y Entornos (Si aplica)
+# =========================
+# Archivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Variables de entorno y secretos (¡Muy importante!)
+.env
+.env.local
