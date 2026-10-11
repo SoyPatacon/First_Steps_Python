@@ -2,5 +2,5 @@
 
 Cualquier sugerencia la recibo :3
 
-![Misaki (para rellenar)](Resources\MISAKI.jpg)
+![Misaki (para rellenar)](Resources/MISAKI.jpg)
 
